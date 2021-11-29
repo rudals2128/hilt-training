@@ -1,12 +1,7 @@
 # Base Project
-## _The Last Markdown Editor, KKM
-
-- BaseActivity, BaseFragment
-- Animation
-- color
-- TedPermission
-
+# Hilt Training
 ## Tech
 
 - Kotlin
-
+- Dagger Hilt
+- MVVM 
