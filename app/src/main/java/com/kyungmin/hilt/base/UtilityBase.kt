@@ -1,4 +1,4 @@
-package com.example.basesetting.base
+package com.kyungmin.hilt.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

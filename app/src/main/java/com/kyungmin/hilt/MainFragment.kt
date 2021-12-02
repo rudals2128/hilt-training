@@ -1,7 +1,7 @@
-package com.example.basesetting
+package com.kyungmin.hilt
 
-import com.example.basesetting.base.UtilityBase
-import com.example.basesetting.databinding.FragmentMainBinding
+import com.kyungmin.hilt.base.UtilityBase
+import com.kyungmin.hilt.databinding.FragmentMainBinding
 
 class MainFragment : UtilityBase.BaseFragment<FragmentMainBinding>(R.layout.fragment_main) {
     override fun FragmentMainBinding.onCreateView() {

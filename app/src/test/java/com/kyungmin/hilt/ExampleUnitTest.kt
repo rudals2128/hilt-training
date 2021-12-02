@@ -1,4 +1,4 @@
-package com.example.basesetting
+package com.kyungmin.hilt
 
 import org.junit.Test
 

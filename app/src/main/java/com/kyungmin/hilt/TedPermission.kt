@@ -1,4 +1,4 @@
-package com.example.basesetting
+package com.kyungmin.hilt
 
 import android.Manifest
 import android.content.Context
@@ -18,6 +18,7 @@ class TedPermission(context: Context) {
         }
 
     }
+
     //Manifests에 uses-permission 추가, TedPermission 이용하기위해 build.gradle에 implementation "gun0912.ted:tedpermission:2.2.3" 추가하기
     fun permissionCheck() {
         TedPermission.with(mContext).setPermissionListener(permissionListener)
